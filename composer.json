@@ -1,0 +1,15 @@
+{
+    "name": "ismaa/smart-bike",
+    "autoload": {
+        "psr-4": {
+            "Ismaa\\SmartBike\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ismaa2k",
+            "email": "ismaa2kmains1@gmail.com"
+        }
+    ],
+    "require": {}
+}
